@@ -2,7 +2,7 @@
   "name": "com.rv.assetoptimizerpackage",
   "version": "1.0.0",
   "displayName": "Unity Asset Optimizer Tool",
-  "description": "This is an package for the Initial Unity Template Tool",
+  "description": "This is a package for Asset Optimization Tool",
   "unity": "6000.0",
   "documentationUrl": "https://github.com/RomanVitolo/RV-AssetOptimizerTool",
   "keywords": [
@@ -14,7 +14,7 @@
     {
       "displayName": "Samples",
       "description": "",
-      "path" : "Samples~/Demo_01"
+      "path": "Samples~/Demo_01"
     }
   ],
   "author": {

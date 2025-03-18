@@ -1,3 +1,6 @@
+## [1.0.4] - 18 March 2025
+- New package description
+
 ## [1.0.3] - 15 March 2025
 - Add samples
 
