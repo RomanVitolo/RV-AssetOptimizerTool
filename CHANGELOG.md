@@ -1,3 +1,6 @@
+## [1.0.5] - 18 March 2025
+- Move Samples folder
+
 ## [1.0.4] - 18 March 2025
 - New package description
 
